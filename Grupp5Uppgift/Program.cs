@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, Girls!");
+           
             Console.WriteLine("Hello, World!");
 
             Gayathri gayathri = new Gayathri();
