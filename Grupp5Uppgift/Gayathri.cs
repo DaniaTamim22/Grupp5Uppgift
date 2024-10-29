@@ -14,5 +14,11 @@ namespace Grupp5Uppgift
         {
             Console.WriteLine("Hello All");
         }
+
+        public void Display()
+        {
+            Console.WriteLine("Hello All");
+        }
+
     }
 }
