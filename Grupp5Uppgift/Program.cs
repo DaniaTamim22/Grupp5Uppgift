@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Gayathri gayathri = new Gayathri();
+            
         }
     }
 }
