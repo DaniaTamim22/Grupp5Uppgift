@@ -7,9 +7,6 @@ namespace Grupp5Uppgift
 {
     public class Bus
         {
-            public string Color { get; set; }
-            public int Year { get; set; }
-
             public Bus(string color, int year)
             {
                 Color = color;
