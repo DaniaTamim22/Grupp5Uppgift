@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+           var bus1 = new Bus("red", 2024);
         }
 
     }
